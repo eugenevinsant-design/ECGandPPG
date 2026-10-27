@@ -1,0 +1,17 @@
+# Data files
+*.csv
+*.npz
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
